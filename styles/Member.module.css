@@ -1,0 +1,17 @@
+.member {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.memberIcon {
+    height: 128px;
+    width: 128px;
+}
+
+.memberContainer {
+    display: flex;
+    flex-direction: row;
+    margin-top: 8px;
+}
